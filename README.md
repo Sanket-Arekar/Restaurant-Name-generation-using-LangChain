@@ -120,14 +120,20 @@ Menu:
 ---
 
 ## Screenshots
-### 1. Terminal Output
-*Insert a screenshot of the terminal running the `main.py` script and generating a restaurant name and menu.*
+### 1. Streamlit App
+![image](https://github.com/user-attachments/assets/c07f39cf-854f-4e5a-bbfb-1a04997b740f)
 
-### 2. Streamlit App
-*Insert a screenshot of the Streamlit app showcasing the generation process.*
 
-### 3. Notebook Output
-*Insert a screenshot of the Jupyter Notebook demonstrating the process.*
+### 2. Notebook Output
+![image](https://github.com/user-attachments/assets/36941bee-11c2-4fab-8376-cabc7f4f7476)
+
+![image](https://github.com/user-attachments/assets/0b83d3bd-ac43-449d-b8f0-79a4e8806368)
+
+![image](https://github.com/user-attachments/assets/5f806b80-98b3-4fa8-ad8f-a1326dfefc6c)
+
+![image](https://github.com/user-attachments/assets/7f5f4f39-6af3-401b-a1ff-8b2c484bcc00)
+
+![image](https://github.com/user-attachments/assets/2350c852-3dab-4ddc-baff-b1660c9d93c0)
 
 ---
 
@@ -135,11 +141,6 @@ Menu:
 - Support for additional languages and themes.
 - Add more advanced features to the Streamlit app.
 - Integrate additional LLMs for more creative options.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
